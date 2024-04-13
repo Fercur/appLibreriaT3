@@ -1,0 +1,19 @@
+{
+    "usuarios":[
+        {
+        "id":"Fercur",
+        "pass":"123",
+        "rol":"admin"
+    },
+    {
+        "id":"Dayanna",
+        "pass":"123",
+        "rol":"invitado"
+    },
+    {
+        "id":"Danny",
+        "pass":"123",
+        "rol":"invitado"
+    }
+    ]
+}
